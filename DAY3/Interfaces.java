@@ -2,7 +2,7 @@ interface Animal {
     void sound(); // Abstract method
 }
 
-class Dog implements Animal {
+class Dog implements Animal {  //implements is a keyword
     public void sound() {
         System.out.println("Dog barks");
     }
