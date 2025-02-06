@@ -35,8 +35,8 @@ public class StudentProject {
     public static void main(String[] args) {
         // Creating object of Student1
         Student1 s1 = new Student1();
-        s1.name = "Khushi";
-        s1.age = 18;
+        s1.name = "Tousif";
+        s1.age = 20;
         s1.displayInfo();
         s1.showStudent1();
         System.out.println();
