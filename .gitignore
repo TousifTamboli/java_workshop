@@ -1,1 +1,10 @@
+# IDE and Editor Directories
+.idea/
+.vscode/
+.lsp/
+.clj-kondo/
+
+# Build and Cache Files
+*.iml
 *.class
+*.cache/
