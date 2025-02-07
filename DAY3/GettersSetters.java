@@ -1,3 +1,5 @@
+//run this file directly using Ctrl + Alt + N
+
 class Person {
     public String name;      // Public - accessible everywhere
     protected int age;       // Protected - accessible within the same package and in subclasses

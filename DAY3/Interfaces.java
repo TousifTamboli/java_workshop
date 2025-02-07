@@ -2,6 +2,9 @@
 //Interfaces is Pure Abstraction
 //implements - keyword (like extend in inhertance)
 
+//run this file directly using Ctrl + Alt + N
+
+
 interface Animal {
     void sound(); // Abstract method
 }
@@ -18,3 +21,6 @@ public class Interfaces {
         d1.sound();
     }
 }
+
+
+//run this file directly using Ctrl + Alt + N
