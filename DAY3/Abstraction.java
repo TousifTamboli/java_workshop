@@ -1,3 +1,5 @@
+//abstraction means a thought that is been defined somewhere we don't need to show it to user
+
 abstract class Vehicle {
     abstract void start(); // Abstract method (no body) it is a thought we just defined it
 

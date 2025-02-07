@@ -1,3 +1,7 @@
+//This is also type of abstraction using interfaces
+//Interfaces is Pure Abstraction
+//implements - keyword (like extend in inhertance)
+
 interface Animal {
     void sound(); // Abstract method
 }

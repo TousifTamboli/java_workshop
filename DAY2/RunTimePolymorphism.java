@@ -22,7 +22,7 @@ class Cat extends Animal {
 //objectName = new subClassName()
 //objectName.methodName
 
-public class RuntimePolymorphism {
+public class RunTimePolymorphism {
     public static void main(String[] args) {
         Animal a1; // Reference of parent class
         
